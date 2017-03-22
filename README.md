@@ -5,6 +5,9 @@
 3. `npm i react-router-dom@next --save-dev` (@next to install latest version)
 4. `npm start`
 
+Notes created by following Egghead.io course at the url below:
+`https://egghead.io/courses/add-routing-to-react-apps-using-react-router-v4`
+
 ## Notes
 ### Path Qualifiers
 ```javascript
